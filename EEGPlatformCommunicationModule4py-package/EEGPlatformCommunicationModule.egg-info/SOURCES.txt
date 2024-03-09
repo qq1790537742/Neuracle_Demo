@@ -1,0 +1,7 @@
+setup.py
+EEGPlatformCommunicationModule.egg-info/PKG-INFO
+EEGPlatformCommunicationModule.egg-info/SOURCES.txt
+EEGPlatformCommunicationModule.egg-info/dependency_links.txt
+EEGPlatformCommunicationModule.egg-info/requires.txt
+EEGPlatformCommunicationModule.egg-info/top_level.txt
+EEGPlatformCommunicationModule4py/__init__.py

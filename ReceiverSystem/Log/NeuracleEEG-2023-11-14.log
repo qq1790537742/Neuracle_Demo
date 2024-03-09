@@ -1,0 +1,3 @@
+2023-11-14 14:46:18.863 | INFO     | ReceiverSystem.ReceiverSystemController:receiver_test_start:50 - !!!! The type of device you used is Neuracle
+2023-11-14 14:46:20.929 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2023-11-14 14:46:23.974 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 2 times

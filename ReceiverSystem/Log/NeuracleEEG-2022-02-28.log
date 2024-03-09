@@ -1,0 +1,81 @@
+2022-02-28 16:58:55.293 | INFO     | ReceiverSystem.ReceiverSystemController:receiver_test_start:46 - !!!! The type of device you used is Neuracle
+2022-02-28 16:58:57.304 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:00.316 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 2 times
+2022-02-28 16:59:03.327 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 3 times
+2022-02-28 16:59:04.331 | DEBUG    | ReceiverSystem.ReceiverSystemController:receiver_test_start:50 - Can't connect recorder, Please open the hostport 
+2022-02-28 16:59:04.335 | INFO     | ReceiverSystem.ReceiverSystemController:receiver_test_start:46 - !!!! The type of device you used is Neuracle
+2022-02-28 16:59:04.335 | INFO     | ReceiverSystem.ReceiverSystemController:receiver_test_start:46 - !!!! The type of device you used is Neuracle
+2022-02-28 16:59:06.355 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:06.355 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:09.372 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 2 times
+2022-02-28 16:59:09.372 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 2 times
+2022-02-28 16:59:12.393 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 3 times
+2022-02-28 16:59:12.393 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 3 times
+2022-02-28 16:59:13.398 | DEBUG    | ReceiverSystem.ReceiverSystemController:receiver_test_start:50 - Can't connect recorder, Please open the hostport 
+2022-02-28 16:59:13.398 | DEBUG    | ReceiverSystem.ReceiverSystemController:receiver_test_start:50 - Can't connect recorder, Please open the hostport 
+2022-02-28 16:59:13.403 | INFO     | ReceiverSystem.ReceiverSystemController:receiver_test_start:46 - !!!! The type of device you used is Neuracle
+2022-02-28 16:59:13.403 | INFO     | ReceiverSystem.ReceiverSystemController:receiver_test_start:46 - !!!! The type of device you used is Neuracle
+2022-02-28 16:59:13.403 | INFO     | ReceiverSystem.ReceiverSystemController:receiver_test_start:46 - !!!! The type of device you used is Neuracle
+2022-02-28 16:59:15.421 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:15.421 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:15.421 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:18.439 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 2 times
+2022-02-28 16:59:18.439 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 2 times
+2022-02-28 16:59:18.439 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 2 times
+2022-02-28 16:59:21.471 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 3 times
+2022-02-28 16:59:21.471 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 3 times
+2022-02-28 16:59:21.471 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 3 times
+2022-02-28 16:59:22.479 | DEBUG    | ReceiverSystem.ReceiverSystemController:receiver_test_start:50 - Can't connect recorder, Please open the hostport 
+2022-02-28 16:59:22.479 | DEBUG    | ReceiverSystem.ReceiverSystemController:receiver_test_start:50 - Can't connect recorder, Please open the hostport 
+2022-02-28 16:59:22.479 | DEBUG    | ReceiverSystem.ReceiverSystemController:receiver_test_start:50 - Can't connect recorder, Please open the hostport 
+2022-02-28 16:59:22.485 | INFO     | ReceiverSystem.ReceiverSystemController:receiver_test_start:46 - !!!! The type of device you used is Neuracle
+2022-02-28 16:59:22.485 | INFO     | ReceiverSystem.ReceiverSystemController:receiver_test_start:46 - !!!! The type of device you used is Neuracle
+2022-02-28 16:59:22.485 | INFO     | ReceiverSystem.ReceiverSystemController:receiver_test_start:46 - !!!! The type of device you used is Neuracle
+2022-02-28 16:59:22.485 | INFO     | ReceiverSystem.ReceiverSystemController:receiver_test_start:46 - !!!! The type of device you used is Neuracle
+2022-02-28 16:59:24.526 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:24.526 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:24.526 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:24.526 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:27.568 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 2 times
+2022-02-28 16:59:27.568 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 2 times
+2022-02-28 16:59:27.568 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 2 times
+2022-02-28 16:59:27.568 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 2 times
+2022-02-28 16:59:30.610 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 3 times
+2022-02-28 16:59:30.610 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 3 times
+2022-02-28 16:59:30.610 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 3 times
+2022-02-28 16:59:30.610 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 3 times
+2022-02-28 16:59:31.626 | DEBUG    | ReceiverSystem.ReceiverSystemController:receiver_test_start:50 - Can't connect recorder, Please open the hostport 
+2022-02-28 16:59:31.626 | DEBUG    | ReceiverSystem.ReceiverSystemController:receiver_test_start:50 - Can't connect recorder, Please open the hostport 
+2022-02-28 16:59:31.626 | DEBUG    | ReceiverSystem.ReceiverSystemController:receiver_test_start:50 - Can't connect recorder, Please open the hostport 
+2022-02-28 16:59:31.626 | DEBUG    | ReceiverSystem.ReceiverSystemController:receiver_test_start:50 - Can't connect recorder, Please open the hostport 
+2022-02-28 16:59:31.631 | INFO     | ReceiverSystem.ReceiverSystemController:receiver_test_start:46 - !!!! The type of device you used is Neuracle
+2022-02-28 16:59:31.631 | INFO     | ReceiverSystem.ReceiverSystemController:receiver_test_start:46 - !!!! The type of device you used is Neuracle
+2022-02-28 16:59:31.631 | INFO     | ReceiverSystem.ReceiverSystemController:receiver_test_start:46 - !!!! The type of device you used is Neuracle
+2022-02-28 16:59:31.631 | INFO     | ReceiverSystem.ReceiverSystemController:receiver_test_start:46 - !!!! The type of device you used is Neuracle
+2022-02-28 16:59:31.631 | INFO     | ReceiverSystem.ReceiverSystemController:receiver_test_start:46 - !!!! The type of device you used is Neuracle
+2022-02-28 16:59:33.652 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:33.652 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:33.652 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:33.652 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:35.687 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:49 - Data server connected
+2022-02-28 16:59:35.687 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:49 - Data server connected
+2022-02-28 16:59:35.687 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:49 - Data server connected
+2022-02-28 16:59:35.687 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:49 - Data server connected
+2022-02-28 16:59:35.687 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:49 - Data server connected
+2022-02-28 16:59:39.386 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:39.386 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:39.386 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:39.386 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:39.386 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 1 times
+2022-02-28 16:59:42.428 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 2 times
+2022-02-28 16:59:42.428 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 2 times
+2022-02-28 16:59:42.428 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 2 times
+2022-02-28 16:59:42.428 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 2 times
+2022-02-28 16:59:42.428 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 2 times
+2022-02-28 16:59:45.473 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 3 times
+2022-02-28 16:59:45.473 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 3 times
+2022-02-28 16:59:45.473 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 3 times
+2022-02-28 16:59:45.473 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 3 times
+2022-02-28 16:59:45.473 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:52 - connection failed, retrying for 3 times
+2022-02-28 17:03:45.889 | INFO     | ReceiverSystem.ReceiverSystemController:receiver_test_start:46 - !!!! The type of device you used is Neuracle
+2022-02-28 17:03:45.890 | INFO     | ReceiverSystem.DeviceModule.NeuracleEEG_raw:connect:49 - Data server connected

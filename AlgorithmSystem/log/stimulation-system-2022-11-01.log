@@ -1,0 +1,10 @@
+2022-11-01 09:50:17.674 | INFO     | AlgorithmSystem.AlgorithmSystemController:algo_sys_prep:48 - 开始从NeuracleEEG接收脑电数据
+2022-11-01 09:50:17.681 | INFO     | AlgorithmSystem.Framework.AlgorithmSystemManager:run:84 - 开始运行算法
+2022-11-01 10:09:26.034 | INFO     | AlgorithmSystem.AlgorithmSystemController:algo_sys_prep:48 - 开始从NeuracleEEG接收脑电数据
+2022-11-01 10:09:26.035 | INFO     | AlgorithmSystem.Framework.AlgorithmSystemManager:run:84 - 开始运行算法
+2022-11-01 10:10:26.317 | INFO     | AlgorithmSystem.AlgorithmSystemController:algo_sys_prep:48 - 开始从NeuracleEEG接收脑电数据
+2022-11-01 10:10:26.319 | INFO     | AlgorithmSystem.Framework.AlgorithmSystemManager:run:84 - 开始运行算法
+2022-11-01 10:19:44.375 | INFO     | AlgorithmSystem.AlgorithmSystemController:algo_sys_prep:48 - 开始从NeuracleEEG接收脑电数据
+2022-11-01 10:19:44.375 | INFO     | AlgorithmSystem.Framework.AlgorithmSystemManager:run:84 - 开始运行算法
+2022-11-01 21:23:31.557 | INFO     | AlgorithmSystem.AlgorithmSystemController:algo_sys_prep:49 - 开始从NeuracleEEG接收脑电数据
+2022-11-01 21:23:31.558 | INFO     | AlgorithmSystem.Framework.AlgorithmSystemManager:run:84 - 开始运行算法

@@ -1,0 +1,1 @@
+#coding:utf8from setuptools import setupsetup(    name='EEGPlatformCommunicationModule',         # 应用名    version='2.0',        # 版本号    author="asslass",    author_email="lcx_4062@bupt.edu.cn",    install_requires=[    'confluent-kafka>=1.5',],    packages=['EEGPlatformCommunicationModule4py']    # 包括在安装包内的Python包)

@@ -1,0 +1,2 @@
+{"bootstrap.servers": "server:60000", "queue.buffering.max.kbytes": 2000000,
+  "queue.buffering.max.messages": 1000000}

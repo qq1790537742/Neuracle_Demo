@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baf8710a-90e7-4208-ad42-27dd52bff0e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ReceiverSystem/ReceiveImplement/ReceiveInterface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StimulationSystem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StimulationSystem/StimulationController.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StimulationSystem/StimulationImplement/Interface/StimulationInterface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022脑机接口大赛在线系统.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmSystem/AlgorithmImplement/Interface/ProblemInterface.py" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmSystem/AlgorithmImplement/Interface/ProblemInterface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmSystem/AlgorithmSystemMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmSystem/AlgorithmSystemMain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StimulationSystem" beforeDir="false" afterPath="$PROJECT_DIR$/StimulationSystem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StimulationSystem/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StimulationSystem/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/StimulationSystem/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StimulationSystem/.idea/stimulation_system_offline.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StimulationSystem/.idea/stimulation_system_offline.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StimulationSystem/StimulationControl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StimulationSystem/config/trigger_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/StimulationSystem/config/trigger_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StimulationSystem/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/StimulationSystem/StimulationMain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StimulationSystem/paradigm/SSVEP.py" beforeDir="false" afterPath="$PROJECT_DIR$/StimulationSystem/paradigm/SSVEP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StimulationSystem/paradigm/config/stimulation_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/StimulationSystem/paradigm/config/stimulation_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StimulationSystem/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StimulationSystem/trigger/Neuroscan/NeuroscanTriggerSystemImplement.py" beforeDir="false" afterPath="$PROJECT_DIR$/StimulationSystem/trigger/Neuroscan/NeuroscanTriggerSystemImplement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StimulationSystem/trigger/TriggerTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/StimulationSystem/trigger/TriggerTest.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/StimulationSystem" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZFlwDT8rPkz05NUYga5A6l0UxH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Alg_Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Neurcale_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/Alg_Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Alg_Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baf8710a-90e7-4208-ad42-27dd52bff0e0" name="Changes" comment="" />
+      <created>1702025944789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702025944789</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
